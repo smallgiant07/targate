@@ -1,3 +1,3 @@
 # Targate
 
-# A portal based shooting game.
+A portal based shooting game.
